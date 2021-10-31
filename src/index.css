@@ -1,0 +1,20 @@
+body {
+  background: brown;
+  color: #000;
+  align-items: center;
+  font-family: "Montserrat";
+}
+
+body,
+html {
+  height: calc(100% - 4em);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  font-weight: bold;
+}
